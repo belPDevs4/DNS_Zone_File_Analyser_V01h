@@ -11,8 +11,7 @@ dns-zone-analyzer/
 │   ├── index.html
 │   ├── indextest.html
 │   ├── results.html
-├── uploads/                # XLSX outputs
-├── .gitignore              # Git ignore rules
+├── uploads/                # XLSX version of uploaded files
 ├── README.md               # Project documentation
 ```
 
