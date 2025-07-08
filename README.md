@@ -22,7 +22,7 @@ i)git init
 ii)git clone https://github.com/belPDevs4/DNS_Zone_File_Analyser_V01h
 )
 ```
-1. Install dependencies:
+1. Install dependencies:```(make sure you are inside the projet folder otherwise do cd folderpath)```
    ```bash
    pip install -r requirements.txt
    ```
