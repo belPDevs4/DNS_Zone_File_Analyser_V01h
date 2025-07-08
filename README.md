@@ -16,6 +16,10 @@ dns-zone-analyzer/
 ```
 
 ## 🚀 How to Run
+After clonning the git repo in local dev environment(
+i)git init
+ii)git clone https://github.com/belPDevs4/DNS_Zone_File_Analyser_V01h
+)
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
